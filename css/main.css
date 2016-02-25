@@ -17,17 +17,21 @@ header img {
 	margin-right: 0px;
     margin-bottom: 0px;
 }
-nav ul li {
+nav ul a{
     margin-right: 14px;
-}
-nav ul li a{
     color: white;
 }
 .navbar-brand {
     padding: 0px 0px;
 	height: 0px;
 }
-
+a:hover {
+    color: #F7BA6A;
+}
+a {
+    text-decoration: none !important;
+    color: white;
+}
 /* SECTION HERO */
 #hero .content {
 	background-image: url(../image/header-image.jpg);
