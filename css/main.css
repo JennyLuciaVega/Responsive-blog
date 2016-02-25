@@ -27,19 +27,7 @@ nav ul li a{
     padding: 0px 0px;
 	height: 0px;
 }
-/*
-header a {
-	color: white;
-	text-decoration: none;
-	padding: 2%;
-}
-header a:hover {
-	background-color: red;
-	color: white;
-	text-decoration: none;
-	padding: 2%;
-}
-*/
+
 /* SECTION HERO */
 #hero .content {
 	background-image: url(../image/header-image.jpg);
